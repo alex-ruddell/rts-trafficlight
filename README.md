@@ -1,17 +1,17 @@
-#Traffic Light System Simulation
-##Real Time Software Project - MECHENG 313
+# Traffic Light System Simulation
+## Real Time Software Project - MECHENG 313
 
-###Authors:
+### Authors:
 Reuben Hughes rhug194 597328603
 Alex Ruddell arud699 866097052
 
-###Description:
+### Description:
 This project simulates a traffic light system based on inputs from the user, providing a responsive real-time simulation of the system in different modes.
 This project was completed on an STK500 / ATMega8 board. Pin allocations for the project are described below.
 
-For further information, download the report attached.
+*For further information, download the report attached.*
 
-###Pin layouts:
+### Pin layouts:
 SW0 -> PD0
 SW5 -> PD2
 SW6 -> PD3
