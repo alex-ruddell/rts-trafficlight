@@ -24,4 +24,5 @@ LED4 -> PC5
 ADC Output -> PC0
 PB1 = Red light camera PWM Output
 PB3 = Speed monitor PWM Output
+
 Open project in Atmel studio, flash to ATMega8 board and run.
