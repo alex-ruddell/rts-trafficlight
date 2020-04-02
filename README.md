@@ -2,8 +2,8 @@
 Project for the course MECHENG 313 - Real-Time Software Design
 
 ## Authors:
--Reuben Hughes (2019)
 - Alex Ruddell (2019)
+- Reuben Hughes (2019)
 
 ## Description:
 This project simulates a traffic light system based on inputs from the user, providing a responsive real-time simulation of the system in different modes.
